@@ -77,9 +77,10 @@ Find one, report one
 --------------------------------------------------------------------------------
 
 If you find a bug, or have an issue with how something works, or doesn't work,
-open an Issue on the project page. Typos also qualify as an issue. Maybe it is
-not a bug, or is the result of a prior decision, maybe it is a problem and needs
-to be fixed. Either way the Issue will be seen and handled.
+open an Issue on the project page. Typos also qualify as an issue. 
+
+Maybe it is not a bug, or is the result of a prior decision, maybe it is a
+problem and needs to be fixed. Either way the Issue will be seen and handled.
 
 Find one, patch one
 --------------------------------------------------------------------------------
