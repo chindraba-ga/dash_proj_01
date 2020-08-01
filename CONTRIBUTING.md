@@ -50,7 +50,7 @@ Treat these like an issue you found. This project is small enough that there pro
 
 ## Using the project locally
 
-At any stage you find this project in feel free to copy and use what you find within the scope of the license applied to this project.
+At any stage you find this project in feel free to copy and use what you find within the scope of the [license][LMD] applied to this project.
 
 
   [APP]: https://keybase.io/download
@@ -62,6 +62,6 @@ At any stage you find this project in feel free to copy and use what you find wi
   [GPG-HELPl]: https://gitlab.com/help/user/project/repository/gpg_signed_commits/index.md
   [KIO]: https://keybase.io/
   [ISSUE]: ../../issues
-  [LMD]: ../../LICENSE.md
+  [LMD]: ./LICENSE.md
   [MIT-HOST]: https://pgp.mit.edu/
   [NCOC]: https://github.com/domgetter/NCoC
