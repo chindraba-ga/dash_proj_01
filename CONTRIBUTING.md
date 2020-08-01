@@ -59,7 +59,7 @@ Maybe it is not a bug, or is the result of a prior decision, maybe it is a probl
 
 If you find a truly serious bug, and know how to fix it, code the solution and create a Pull or Merge request.
 
-Kudos to anyone willing to take the time to create solutions rather than notices. Please read the [__Contributor requirements__](#contributor-requirements) secion above.
+Kudos to anyone willing to take the time to create solutions rather than notices. Please read the [__Contributor requirements__](#contributor-requirements) section above.
 
 [TOP](#contents)
 

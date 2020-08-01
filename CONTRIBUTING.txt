@@ -105,7 +105,7 @@ If you find a truly serious bug, and know how to fix it, code the solution and
 create a Merge request or Pull request, as the case may be, in this repository.
 
 Kudos to anyone willing to take the time to create solutions rather than
-notices. Please read the "Contributor requirements" secion above.
+notices. Please read the "Contributor requirements" section above.
 
 
 Feature requests and enhancements
