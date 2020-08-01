@@ -51,13 +51,15 @@ Please read the [`CODE_OF_CONDUCT.md`](./CODE_OF_CONDUCT.md) file in this repo f
 
 ### Find one, report one
 
-If you find a bug, or have an issue with how something works, or doesn't work, open an [Issue](../../issues) on the project page. Typos also qualify as an issue. Maybe it is not a bug, or is the result of a prior decision, maybe it is a problem and needs to be fixed. Either way, the Issue will be seen and handled.
+If you find a bug, or have an issue with how something works, or doesn't work, open an [Issue](../../issues) on the project page. Typos also qualify as an issue.
+
+Maybe it is not a bug, or is the result of a prior decision, maybe it is a problem and needs to be fixed. Either way, the [Issue](../../issues) will be seen and handled.bbb
 
 ### Find one, patch one
 
 If you find a truly serious bug, and know how to fix it, code the solution and create a Pull or Merge request.
 
-Kudos to anyone willing to take the time to create solutions rather than notices. Please read the __Contributor requirements__ secion above.
+Kudos to anyone willing to take the time to create solutions rather than notices. Please read the [__Contributor requirements__](#contributor-requirements) secion above.
 
 [TOP](#contents)
 
@@ -65,7 +67,7 @@ Kudos to anyone willing to take the time to create solutions rather than notices
 
 ## Feature requests and enhancements
 
-Treat these like an issue you found. This project is small enough that there probably are not any meaningful enhancements possible that are not already planned without taking it out of its planned scope. Asking, or offereing, won't hurt anything however, and suggestions are always welcome. So create and submit an Issue anyway. (See above.)
+Treat these like an issue you found. This project is small enough that there probably are not any meaningful enhancements possible that are not already planned without taking it out of its planned scope. Asking, or offereing, won't hurt anything however, and suggestions are always welcome. So create and submit an [Issue](../../issues) anyway. ([See above](#issues-and-bugs).)
 
 [TOP](#contents)
 
