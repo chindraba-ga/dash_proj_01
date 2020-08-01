@@ -73,7 +73,7 @@ Treat these like an issue you found. This project is small enough that there pro
 
 ## Using the project locally
 
-At any stage you find this project in feel free to copy and use what you find within the scope of the [license][LMD] applied to this project.
+At any stage you find this project in feel free to copy and use what you find within the scope of the [license](./LICENSE.md) applied to this project.
 
 [TOP](#contents)
 
