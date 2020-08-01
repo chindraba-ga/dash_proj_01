@@ -4,10 +4,11 @@
 
 ### v1.0.1
 
+-  Convert links to inline use
 -  Add TOC, with links, to the CONTRIBUTING files
 -  Add a CHANGELOG to the repo
 -  Cleanup some text and links in the CONTRIBUTING files
 
-# v1.0.0
+### v1.0.0
 
 -  The current status of the project on Dash.

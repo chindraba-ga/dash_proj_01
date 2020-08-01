@@ -1,9 +1,25 @@
 dash_proj_01
 
+Contents
+================================================================================
+
+* Contributor requirements
+  * Developer Certiticate of Origin
+  * GPG-signed commits
+  * OpenPGP public key
+* Code of Conduct
+* Issues and bugs
+  * Find one, report one
+  * Find one, patch one
+* Feature requests and enhancements
+* Using the project locally
+
+
 Contributor requirements
+================================================================================
 
 Developer Certiticate of Origin
-================================================================================
+--------------------------------------------------------------------------------
 
 This project uses the Developer Certificate of Origin, Version 1.1 used by Linux
 Foundation in developing the Linux Kernel. The Developer Certificate of Origin
