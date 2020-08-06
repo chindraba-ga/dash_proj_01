@@ -29,7 +29,7 @@ Pseudonymous or anonymous contributions are permissible, but you must be reachab
 
 In addition, to be acceptable to the project, the commits need to be GPG-signed in a manner verifiable by the site(s) on which the commit is posted. Again, the `git` command makes this simple with the `--gpg-sign[=<keyid>]` or `-S[<keyid>]` options for a commit. This, of course, means that you will need to have a PGP key for the same email address as you use for creating the commits. GitLab has a good page, [Signing commits with GPG](https://gitlab.com/help/user/project/repository/gpg_signed_commits/index.md), which explains, and guides you through the process of creating one, and GitHub has a good page, [Generating a new GPG key](https://help.github.com/articles/generating-a-new-gpg-key/), for essentially the same process. Both also help you associate the new PGP key with your account on their server, if you wish.
 
-I would recommend that where the instructions suggest selecting the default of `RSA and RSA` that you select `ECC and ECC` instead. The size of the keys are shorter and the time and work you computer uses to generate and use the keys is less. Selecting the ECC algorithm causes the selection of key size to be replaced with a selection of which elliptic curve to use, in which case I recomment the `Curve 25519` option. The choice of which option to use is a personal choice, and either way is acceptable here, as long as the commits are signed with a valid PGP key.
+I would recommend that where the instructions suggest selecting the default of `RSA and RSA` that you select `ECC and ECC` instead. The size of the keys are shorter and the time and work you computer uses to generate and use the keys is less. Selecting the ECC algorithm causes the selection of key size to be replaced with a selection of which elliptic curve to use, in which case I recommend the `Curve 25519` option. The choice of which option to use is a personal choice, and either way is acceptable here, as long as the commits are signed with a valid PGP key.
 
 ### OpenPGP public key
 
@@ -57,7 +57,7 @@ Maybe it is not a bug, or is the result of a prior decision, maybe it is a probl
 
 ### Find one, patch one
 
-If you find a truly serious bug, and know how to fix it, code the solution and create a Pull or Merge request.
+If you find a truly serious bug, and know how to fix it, code the solution and create a Merge request, or a Pull request as the case may be, in this repo.
 
 Kudos to anyone willing to take the time to create solutions rather than notices. Please read the [__Contributor requirements__](#contributor-requirements) section above.
 
@@ -67,7 +67,7 @@ Kudos to anyone willing to take the time to create solutions rather than notices
 
 ## Feature requests and enhancements
 
-Treat these like an issue you found. This project is small enough that there probably are not any meaningful enhancements possible that are not already planned without taking it out of its planned scope. Asking, or offereing, won't hurt anything however, and suggestions are always welcome. So create and submit an [Issue](../../issues) anyway. ([See above](#issues-and-bugs).)
+Treat these like an issue you found. This project is small enough that there probably are not any meaningful enhancements possible that are not already planned without taking it out of its planned scope. Asking, or offering, won't hurt anything however, and suggestions are always welcome. So create and submit an [Issue](../../issues) anyway. ([See above](#issues-and-bugs).)
 
 [TOP](#contents)
 

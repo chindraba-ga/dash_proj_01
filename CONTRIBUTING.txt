@@ -45,7 +45,7 @@ GPG-signed commits
 --------------------------------------------------------------------------------
 
 In addition, to be acceptable to the project, the commits need to be GPG-signed
-in a manner verifiable by the site(s) on which the commit is posted. Again, the 
+in a manner verifiable by the site(s) on which the commit is posted. Again, the
 git command makes this simple with the "--gpg-sign[=<keyid>]" or "-S[<keyid>]"
 options for a commit. This, of course, means that you will need to have a PGP
 key for the same email address as you use for creating the commits. GitLab has a
@@ -59,7 +59,7 @@ I would recommend that where the instructions suggest selecting the default of
 shorter and the time and work you computer uses to generate and use the keys is
 less. Selecting the ECC algorithm causes the selection of key size to be
 replaced with a selection of which elliptic curve to use, in which case I
-recomment the "Curve 25519" option.  The choice of which option to use is a
+recommend the "Curve 25519" option. The choice of which option to use is a
 personal choice, and either way is acceptable here, as long as the commits are
 signed with a valid PGP key.
 
@@ -75,7 +75,7 @@ Guard, the "gpg" command line tool, or on the web at many addresses, including a
 host at MIT (see below). The Keybase app (see below) supposedly makes things
 easier to use, and increases other users confidence in the connection between an
 identity and the key. However it is done, I support and encourage the personal
-and professional use of encryption in every possible case. Requiring
+and professional use of encryption in every possible case. Requiring the
 contributors here to have, and use, an OpenPGP key is just one way to advance
 the cause.
 
@@ -93,7 +93,7 @@ Find one, report one
 --------------------------------------------------------------------------------
 
 If you find a bug, or have an issue with how something works, or doesn't work,
-open an Issue on the project page. Typos also qualify as an issue. 
+open an Issue on the project page. Typos also qualify as an issue.
 
 Maybe it is not a bug, or is the result of a prior decision, maybe it is a
 problem and needs to be fixed. Either way the Issue will be seen and handled.
@@ -102,7 +102,7 @@ Find one, patch one
 --------------------------------------------------------------------------------
 
 If you find a truly serious bug, and know how to fix it, code the solution and
-create a Merge request or Pull request, as the case may be, in this repository.
+create a Merge request, or a Pull request as the case may be, in this repo.
 
 Kudos to anyone willing to take the time to create solutions rather than
 notices. Please read the "Contributor requirements" section above.
@@ -113,7 +113,7 @@ Feature requests and enhancements
 
 Treat these like an issue you found. This project is small enough that there
 probably are not any meaningful enhancements possible that are not already
-planned without taking it out of it's planned scope. Asking, or offereing, won't
+planned without taking it out of it's planned scope. Asking, or offering, won't
 hurt anything however, and suggestions are always welcome. So create and submit
 an Issue anyway. (See above.)
 
@@ -121,8 +121,8 @@ an Issue anyway. (See above.)
 Using the project locally
 ================================================================================
 
-At any stage you find this project in feel free to copy and use what you find
-within the scope of the license applied to this project.
+At whatever stage you find this project in feel free to copy and use what you
+find within the scope of the license applied to this project.
 
 
 Resources:
@@ -130,6 +130,9 @@ Resources:
 
     Developer Certificate of Origin
 <http://developercertificate.org/>
+
+    "Signing commits with GPG" on GitLab
+<https://gitlab.com/help/user/project/repository/gpg_signed_commits/index.md>
 
     "Generating a new GPG key" on GitHub
 <https://help.github.com/articles/generating-a-new-gpg-key/>
@@ -145,9 +148,3 @@ Resources:
 
     MIT OpenPGP host
 <https://pgp.mit.edu>
-
-    No Code of Conduct homepage
-<https://github.com/domgetter/NCoC>
-
-    "Signing commits with GPG" on GitLab
-<https://gitlab.com/help/user/project/repository/gpg_signed_commits/index.md>

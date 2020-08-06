@@ -1,18 +1,20 @@
 # dash_proj_01
 
-- Status: Pending
+-  Status: Pending
+-  Live page: <https://www.chindraba.work/fewd/l00-ex01.html
 
 ## Contents
 
-- [Description](#description)
-- [Installation](#installation)
-- [Versioning](#versioning)
-- [Copyright and Licensing](#copyright-and-licensing)
+-  [Description](#description)
+-  [Installation](#installation)
+-  [Versioning](#versioning)
+-  [Copyright and License](#copyright-and-license)
+   -  [The MIT License](#the-mit-license)
 
 ---
 ## Description
 
-   Dash tutorial Project 1: Build A Personal Website.
+### Dash tutorial Project 1: Build A Personal Website.
 
 [TOP](#contents)
 
@@ -41,7 +43,7 @@ Version numbers take the form X.Y.Z where X is the major version, Y is the minor
 [TOP](#contents)
 
 ---
-## Copyright and Licensing
+## Copyright and License
 
 Copyright © 2020  Chindraba (Ronald Lamoreaux)
 

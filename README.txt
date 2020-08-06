@@ -1,29 +1,30 @@
 dash_proj_01
-
 * Status: Pending
+* Live page: <https://www.chindraba.work/fewd/l00-ex01.html
 
 Contents
+================================================================================
 
 * Description
 * Installation
 * Versioning
-* Copyright and Licensing
-
+* Copyright and License
+  * The MIT License
 
 Description
-===============================================================================
+================================================================================
 
 Dash tutorial Project 1: Build A Personal Website.
 
 
 Installation
-===============================================================================
+================================================================================
 
 Place the file in a web-served location.
 
 
 Versioning
-===============================================================================
+================================================================================
 
 dash_proj_01 uses Semantic Versioning v2.0.0.
 
@@ -50,8 +51,10 @@ different levels are:
   do not add any features to the program operations or functionality
 
 
-Copyright and Licensing
-===============================================================================
+Copyright and License
+================================================================================
+
+The MIT license applies to all the code within this repository.
 
 Copyright © 2020  Chindraba (Ronald Lamoreaux)
             <upskill@chindraba.work>
