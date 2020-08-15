@@ -1,6 +1,7 @@
-# dash_proj_01
+# l00-ex01
 
 -  Status: Pending
+-  CodePen: <https://codepen.io/chindraba-ga/pen/BaKBoJx>
 -  Live page: <https://www.chindraba.work/fewd/l00-ex01.html
 
 ## Contents
@@ -14,7 +15,7 @@
 ---
 ## Description
 
-### Dash tutorial Project 1: Build A Personal Website.
+### Dash tutorial 1: Build A Personal Website.
 
 [TOP](#contents)
 
@@ -28,7 +29,7 @@
 ---
 ## Versioning
 
-dash_proj_01 uses Semantic Versioning v2.0.0.
+l00-ex01 uses Semantic Versioning v2.0.0.
 
 [Semantic Versioning](https://semver.org/spec/v2.0.0.html) was created by [Tom Preston-Werner](http://tom.preston-werner.com/), inventor of Gravatars and cofounder of GitHub.
 
